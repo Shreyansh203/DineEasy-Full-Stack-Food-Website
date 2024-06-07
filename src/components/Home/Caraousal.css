@@ -1,0 +1,31 @@
+/* Input field */
+.form-control {
+    width: 250px; /* Adjust width as needed */
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-color: #28a745; /* Green color for border */
+}
+
+/* Button */
+.btn-success {
+    background-color: #28a745; /* Green color for button background */
+    border-color: #28a745; /* Green color for button border */
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    transition: all 0.3s ease; /* Smooth transition on hover */
+}
+
+/* Button hover effect */
+.btn-success:hover {
+    background-color: #218838; /* Darker green color on hover */
+    border-color: #1e7e34; /* Darker green color for button border on hover */
+    transition: all 0.3s ease; /* Smooth transition on hover */
+}
+
+/* Button focus effect */
+.btn-success:focus {
+    box-shadow: 0 0 0 0.2rem rgba(40, 167, 69, 0.5); /* Green shadow on focus */
+    transition: all 0.3s ease; /* Smooth transition on focus */
+}
+
+/* #ffedeb */

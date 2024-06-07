@@ -1,0 +1,23 @@
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px 0;
+}
+
+.social-icons a {
+    color: white;
+    margin-right: 10px;
+}
+
+.social-icons a:hover {
+    color: #007bff;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
